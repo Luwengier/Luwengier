@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Wengier's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Luwengier&theme=transparent&count_private=true&show_icons=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br/>
 <br/>
-![Wengier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luwengier&theme=tokyonight&layout=compact&card_width=450&count_private=true)
+![Wengier's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Luwengier&theme=radical&layout=compact&card_width=450&count_private=true#gh-dark-mode-only)
+![Wengier's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Luwengier&theme=transparent&layout=compact&card_width=450&count_private=true#gh-light-mode-only)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luwengier&theme=tokyonight&count_private=true)
+![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com/?user=Luwengier&theme=radical&count_private=true#gh-dark-mode-only)
+![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com/?user=Luwengier&theme=transparent&count_private=true#gh-light-mode-only)
