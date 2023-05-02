@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Wengier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luwengier&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Wengier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luwengier&theme=dark&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luwengier&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
